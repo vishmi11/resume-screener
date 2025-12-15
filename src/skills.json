@@ -1,0 +1,7 @@
+{
+  "data_analyst": ["excel", "sql", "python", "tableau", "power bi", "r", "statistics", "pandas", "numpy"],
+  "ml_engineer": ["machine learning", "scikit-learn", "tensorflow", "pytorch", "keras", "deep learning", "nlp", "pandas", "numpy"],
+  "frontend_dev": ["javascript", "react", "vue", "html", "css", "typescript"],
+  "backend_dev": ["node", "express", "java", "spring", "sql", "postgresql", "mongodb"],
+  "mobile_dev": ["android", "kotlin", "java", "swift", "flutter", "react native"]
+}

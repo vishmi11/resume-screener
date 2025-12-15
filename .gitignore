@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit / temp files
+tmp_upload.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
