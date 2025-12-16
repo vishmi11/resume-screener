@@ -1,0 +1,26 @@
+text,label
+"excel sql python pandas numpy data analysis statistics dashboards reporting",data_analyst
+"power bi tableau sql excel business analytics data visualization insights",data_analyst
+"data cleaning exploratory data analysis python excel sql reporting",data_analyst
+"statistical analysis regression correlation hypothesis testing excel r",data_analyst
+"financial data analysis budgeting forecasting excel sql python",data_analyst
+"python scikit-learn machine learning classification regression pandas numpy",ml_engineer
+"deep learning neural networks tensorflow pytorch keras nlp",ml_engineer
+"feature engineering model training evaluation cross validation ml",ml_engineer
+"natural language processing text classification sentiment analysis ml",ml_engineer
+"supervised unsupervised learning clustering dimensionality reduction",ml_engineer
+"javascript react html css frontend responsive web design",frontend_dev
+"react vue javascript typescript css ui frontend development",frontend_dev
+"html css javascript web design user interface frontend",frontend_dev
+"frontend development responsive design react css bootstrap",frontend_dev
+"single page applications react javascript frontend ui",frontend_dev
+"node express mongodb rest api backend server development",backend_dev
+"java spring boot backend microservices sql api development",backend_dev
+"backend systems authentication authorization database sql",backend_dev
+"server side development nodejs express rest services",backend_dev
+"database design backend logic sql postgresql mongodb",backend_dev
+"android kotlin mobile application development ui",mobile_dev
+"flutter react native cross platform mobile apps",mobile_dev
+"ios android mobile development swift kotlin",mobile_dev
+"mobile ui ux application development android",mobile_dev
+"cross platform mobile apps flutter react native",mobile_dev
