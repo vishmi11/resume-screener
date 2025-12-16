@@ -1,7 +1,11 @@
 import json
+import os
 
-# Load skills from JSON
-with open("skills.json", "r") as f:
+# Get the absolute path to the current file
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+SKILLS_FILE = os.path.join(BASE_DIR, "skills.json")
+
+with open(SKILLS_FILE, "r") as f:
     SKILLS_DICT = json.load(f)
 
 def match_skills(text: str, role_key: str):
