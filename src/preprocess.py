@@ -5,6 +5,10 @@ from typing import List
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
+# Download NLTK data at runtime (on server)
+nltk.download('punkt', quiet=True)
+nltk.download('stopwords', quiet=True)
+
 STOPWORDS = set(stopwords.words('english'))
 
 def clean_text(text: str) -> str:
